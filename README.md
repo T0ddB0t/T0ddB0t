@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @T0ddB0t
-- 👀 I’m interested in things
-- 🌱 I’m currently learning learning
-- 💞️ I’m looking to collaborate on nothing unless it's just me putting "i_luv_u" || "i luv u" in C++
-- 📫 How to reach: me please don't
+- 👋 Hi, I’m Francisco 
+- 👀 I’m interested in AI/ML and Web Development and a little Game Development (also my gf)
+- 🌱 I’m currently learning AI Engineering
+- 💞️ I’m looking to collaborate on beginner projects
+- 📫 How to reach: @upupou@gmail.com
 
 <!---
 T0ddB0t/T0ddB0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
