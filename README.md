@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco 
-- 👀 I’m interested in AI/ML and Web Development and a little Game Development
+- 👀 I’m interested Things like Software Engineering
 - 🌱 I’m currently learning AI Engineering/ Software Engineering
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach: @upupou@gmail.com 
